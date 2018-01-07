@@ -6,7 +6,6 @@ Android and iOS client for GitHub popular and trending projects based on React N
 ES6 + React Native + Flexbox + AsyncStorage + Fetch
 
 ### Features
-Features:
 1. Browse GitHub trending and popular projects
 2. Offline cache
 3. Add projects to favorites
