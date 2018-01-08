@@ -1,22 +1,30 @@
 {
-  "name": "react_native_github",
+  "name": "imooc_gp",
   "version": "0.0.1",
   "private": true,
   "scripts": {
     "start": "node node_modules/react-native/local-cli/cli.js start",
-    "ios": "react-native run-ios",
-    "android": "react-native run-android",
     "test": "jest"
   },
   "dependencies": {
-    "react": "16.0.0",
-    "react-native": "0.51.0"
+    "GitHubTrending": "^2.0.0",
+    "react": "15.4.1",
+    "react-native": "^0.40.0",
+    "react-native-check-box": "^1.0.4",
+    "react-native-code-push": "^1.17.0-beta",
+    "react-native-easy-toast": "^1.0.5",
+    "react-native-htmlview": "^0.5.0",
+    "react-native-parallax-scroll-view": "^0.19.0",
+    "react-native-scrollable-tab-view": "^0.7.0",
+    "react-native-sortable-listview": "^0.1.1",
+    "react-native-splash-screen": "^2.0.0",
+    "react-native-tab-navigator": "^0.3.3"
   },
   "devDependencies": {
-    "babel-jest": "22.0.4",
-    "babel-preset-react-native": "4.0.0",
-    "jest": "22.0.4",
-    "react-test-renderer": "16.0.0"
+    "babel-jest": "17.0.2",
+    "babel-preset-react-native": "1.9.0",
+    "jest": "17.0.3",
+    "react-test-renderer": "15.4.1"
   },
   "jest": {
     "preset": "react-native"
