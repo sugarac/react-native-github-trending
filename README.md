@@ -1,4 +1,4 @@
-## GitHub Popular
+## GitHub Trending
 Android and iOS client for GitHub popular and trending projects based on React Native.
 [Google Play](https://play.google.com/store/apps/details?id=com.sugarac_gt)
 
