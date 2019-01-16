@@ -16,13 +16,13 @@ ES6 + React + React Native + Flexbox + AsyncStorage + Fetch
 
 ### Demo
 <p float="left">
-  <img src="assets/1_trending.png" width="360" />
-  <img src="assets/2_popular.png" width="360" /> 
+  <img src="assets/1_trending.png" width="330" />
+  <img src="assets/2_popular.png" width="330" /> 
 </p>
 
 <p float="left">
-  <img src="assets/3_favorite_trending.png" width="360" />
-  <img src="assets/4_favorite_popular.png" width="360" /> 
+  <img src="assets/3_favorite_trending.png" width="330" />
+  <img src="assets/4_favorite_popular.png" width="330" /> 
 </p>
 
 <div style="float:left;border:solid 1px 000;margin:2px;"><img src="assets/5_setting.png" width="330" ></div>
